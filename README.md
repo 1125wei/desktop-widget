@@ -20,7 +20,7 @@ Windows 桌面小组件：**贴在壁纸层上**（桌面图标之下、被普�
 
 ## 下载即用（绿色免安装）
 
-到 [Releases](../../releases) 下载 `DesktopWidget-v*-win64-portable.zip`，**解压后双击 `DesktopWidget.exe`** 即可 —— 包内自带 Qt 6.8.3 运行库与 VC143 CRT，不需要装 Qt、也不需要装 VC++ 运行库。用法详见包内 `README-zh.txt`。
+到 [Releases](../../releases) 下载 `DesktopWidget-<版本号>.zip`（例：`DesktopWidget-0.3.0.zip`），**解压到任意目录后双击 `DesktopWidget.exe`** 即可 —— 包内自带 Qt 6.8.3 运行库与 VC143 CRT，不需要装 Qt、也不需要装 VC++ 运行库。用法详见包内 `README-zh.txt`。
 
 - 首次运行会在桌面右下角出现两张卡片，托盘（右下角小图标）里有全部操作
 - 配置写在 `%APPDATA%\wei\DesktopWidget\config.json`，删掉它即恢复默认
