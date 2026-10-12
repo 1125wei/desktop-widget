@@ -1,0 +1,22 @@
+# 构建产物（本机生成，不入库）
+build/
+dist/
+
+# IDE / 编辑器
+.vs/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 编译中间产物
+*.obj
+*.pdb
+*.ilk
+*.exp
